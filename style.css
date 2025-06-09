@@ -1001,7 +1001,6 @@
   
   .education-logo img {
     max-width: 150px;
-    filter: drop-shadow(0 0 10px rgba(0, 217, 255, 0.5));
   }
   
   .education-content {

@@ -115,11 +115,9 @@ document.addEventListener("DOMContentLoaded", () => {
     if (typeof Typed !== "undefined") {
       const typed = new Typed(".typing", {
         strings: [
-          "Computer Science Student at Georgia Tech",
+          "Software Engineering Student at Brigham Young University - Idaho",
           "Software Developer",
-          "TikTok Effect Creator",
           "Project Manager",
-          "Teaching Assistant",
         ],
         typeSpeed: 50,
         backSpeed: 30,
