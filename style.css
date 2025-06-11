@@ -1165,7 +1165,7 @@
   }
   
   .experience-info ul li::before {
-    content: "→";
+    content: "";
     position: absolute;
     left: -20px;
     color: var(--accent-color);
@@ -1949,5 +1949,5 @@
   ::-webkit-scrollbar-thumb:hover {
     background: var(--gradient-primary);
   }
-  
-  
+
+
