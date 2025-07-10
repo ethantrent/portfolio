@@ -1920,6 +1920,46 @@
     .hero-subtitle {
       font-size: 1.1rem;
     }
+    .btn-glow,
+    .btn-glow-secondary,
+    .filter-btn {
+      min-width: 44px;
+      min-height: 44px;
+      padding: 12px 0;
+      font-size: 1rem;
+    }
+    .social-icon,
+    .contact-icon,
+    .back-to-top {
+      min-width: 44px;
+      min-height: 44px;
+      width: 44px;
+      height: 44px;
+      font-size: 1.2rem;
+    }
+    .footer-links ul li a {
+      min-width: 44px;
+      min-height: 44px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      font-size: 1rem;
+    }
+    .navbar-toggler {
+      min-width: 44px;
+      min-height: 44px;
+      width: 44px;
+      height: 44px;
+    }
+    .navbar-nav .nav-link {
+      padding: 16px 0;
+      font-size: 1.1rem;
+    }
+    .footer {
+      padding-bottom: 100px;
+    }
+    .footer-bottom {
+      padding-bottom: 60px;
+    }
   }
   
   @media (max-width: 575px) {
